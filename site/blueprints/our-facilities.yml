@@ -1,0 +1,10 @@
+title: Our facilities
+pages: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  textarea
+  text:
+    label: Text
+    type:  textarea

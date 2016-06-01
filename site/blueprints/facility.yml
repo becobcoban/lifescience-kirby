@@ -1,0 +1,13 @@
+title: Facility
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  textarea
+  text:
+    label: Text
+    type:  textarea
+  photo:
+    label: Photo
+    type:  image
